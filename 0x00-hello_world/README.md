@@ -3,7 +3,7 @@
 ## Resources
 Read or watch:
 
-- [Everything you need to know to start with C.pdf ((You do not have to learn everything in there yet, but make sure you read it entirely first))] (https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2021/1/d801279f75de6a982a55d752dfd3632909f720f0.pdf)
+- [Everything you need to know to start with C.pdf ((You do not have to learn everything in there yet, but make sure you read it entirely first))] ()
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 - [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 - [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)

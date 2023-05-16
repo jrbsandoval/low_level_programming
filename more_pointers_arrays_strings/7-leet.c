@@ -22,13 +22,9 @@ char *leet(char *s)
 	/*cantidad de elementos a comparar*/
 	len = 5;
 	for (i = 0; *(s + i) != '\0'; i++)
-	{
 		for (j = 0; j < len; j++)
-		{
 			if (*(s + i) == array[j] || *(s + i) == arrayTwo[j])
 				*(s + i) = patron[j];
-		}
-	}
 
 	return (s);
 }
